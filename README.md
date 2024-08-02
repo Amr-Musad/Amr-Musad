@@ -1,6 +1,7 @@
-<center># Hello Everyone</center>
- 👋
-## Welcome to my profile 
+<center>
+This text is centered.
+</center>
+
 
 <!--
 **Amr-Musad/Amr-Musad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
