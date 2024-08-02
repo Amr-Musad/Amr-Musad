@@ -1,6 +1,7 @@
-<center>
-This text is centered.
-</center>
+<div style="text-align: center;">
+  This text is centered.
+</div>
+
 
 
 <!--
