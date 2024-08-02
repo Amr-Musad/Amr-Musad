@@ -1,4 +1,5 @@
-# Hello Everyone 👋
+<center># Hello Everyone</center>
+ 👋
 ## Welcome to my profile 
 
 <!--
